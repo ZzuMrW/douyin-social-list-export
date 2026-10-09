@@ -1,0 +1,11 @@
+work/
+outputs/
+.douyin-profile/
+**/douyin-profile*/
+*_raw.json
+*.csv
+*.png
+*.zip
+node_modules/
+__pycache__/
+*.log
